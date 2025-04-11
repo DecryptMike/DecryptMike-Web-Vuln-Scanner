@@ -12,34 +12,38 @@
 </h2>
 
 <h4 align="center">
-  The Decrypt Mike Web Vunerability Scanner Is A Lightweight Python-Based Tool To Scan Websites For Common Vulnerabilities.<br>Built In Python With A Focus On Practical Cybersecurity Automation.
+  The Decrypt Mike Web Vulnerability Scanner is a lightweight Python-based tool to scan websites for common vulnerabilities.<br>
+  Built in Python with a focus on practical cybersecurity automation.
 </h4>
 
-## 📄 License
+---
 
-* This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content. <br>
-* However, others are welcome to explore, gain insights, and utilize the materials solely for **personal** learning and reference purposes.
+## 🛠️ Features
+
+- Detects exposed admin login portals  
+- Tests for reflected XSS vulnerabilities  
+- Scans for SQL injection error messages  
+- Identifies missing clickjacking protection  
+- Flags open directory listings (e.g., `/images/`)  
+- Analyzes HTTP headers for outdated server technologies  
+- **Exports scan results to both `.txt` and `.json` files**
 
 ---
 
-## ✅ Features
+## 📁 Tech Stack & Requirements
 
-- 🔓 Detects common admin panels  
-- 👾 Tests for reflected XSS  
-- 💉 Scans for SQL Injection error messages  
-- 🪟 Checks for missing clickjacking protection  
-- 📂 Detects open directory listings  
-- 🧬 Scans server headers for outdated technologies  
+This project is built using:
+
+- **Python 3.6+**
+- `requests`, `beautifulsoup4`
+- Command-line interface
+- File export to `.txt` and `.json` formats
 
 ---
 
-## 📦 Requirements
+## 📦 To Install & Run:
 
-- Python 3.6+
-- `requests`
-- `beautifulsoup4`
-
-To Install Dependencies, Run:
+Install all required dependencies using:
 
 ```bash
 pip install -r requirements.txt
@@ -53,7 +57,7 @@ pip install -r requirements.txt
 git clone https://github.com/DecryptMike/DecryptMike-Web-Vuln-Scanner.git
 cd DecryptMike-Web-Vuln-Scanner 
 ```
-### 2. Create And Activate A Virtual Enviroment 
+### 2. Create And Activate A Virtual Environment 
 ```bash
 python3 -m venv venv
 source venv/bin/activate
@@ -94,17 +98,24 @@ http://testphp.vulnweb.com
 
 ---
 
+## 📄 Why I Built It
+
+To sharpen my cybersecurity foundations and showcase how Python can automate critical vulnerability checks.  
+This project was built for educational purposes and serves as a customizable base for more advanced tools.
+
+---
+
 ## ⚠️ Legal Disclaimer
 This Tool Is Intended For Educational And Authorized Testing Only.
 Do Not Use It To Scan Websites Without Proper Permission.
 
 ---
 
-## 💻 Built By @DecryptMike
+## 💻 Built By [@DecryptMike](https://github.com/DecryptMike)
 
 ---
 
-### ✅ Once You Paste:
+## ✅ Once You Paste:
 
 1. Save the file as `README.md` (not `.txt`, not `.py`)
 2. Open the **Markdown Preview** in VS Code:
@@ -115,7 +126,7 @@ You’ll See The Properly Rendered GitHub-Style Formatting ✅
 
 ---
 
-### Last Step:
+## Last Step:
 
 Push It To GitHub:
 ```bash
@@ -123,3 +134,9 @@ git add README.md
 git commit -m "Final full README with markdown formatting"
 git push origin main
 ```
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20for-Cybersecurity-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Made%20by-DecryptMike-green?style=for-the-badge"/>
+</p>
