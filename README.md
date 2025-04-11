@@ -1,4 +1,10 @@
-# Web Vulnerability Scanner 🔍
+<p align="center">
+  <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
+</p>
+
+<h2 align="center">
+   🔍 Web Vulnerability Scanner 
+</h2>
 
 A lightweight Python-based tool to scan websites for common vulnerabilities.  
 Built in Python with a focus on practical cybersecurity automation.
