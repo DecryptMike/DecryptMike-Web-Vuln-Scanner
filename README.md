@@ -6,8 +6,14 @@
    🔍 Web Vulnerability Scanner 
 </h2>
 
-A lightweight Python-based tool to scan websites for common vulnerabilities.  
-Built in Python with a focus on practical cybersecurity automation.
+<h4 align="center">
+  The Decrypt Mike Web Vunerability Scanner Is A Lightweight Python-Based Tool To Scan Websites For Common Vulnerabilities.<br>Built In Python With A Focus On Practical Cybersecurity Automation.
+</h4>
+
+## 📄 License
+
+* This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content. <br>
+* However, others are welcome to explore, gain insights, and utilize the materials solely for **personal** learning and reference purposes.
 
 ---
 
@@ -37,25 +43,25 @@ pip install -r requirements.txt
 
 ## 🚀 Usage
 
-### 1. Clone the repo (or download ZIP)
+### 1. Clone The Repo (Or Download ZIP)
 ```bash
 git clone https://github.com/DecryptMike/DecryptMike-Web-Vuln-Scanner.git
 cd DecryptMike-Web-Vuln-Scanner 
 ```
-### 2. Create and activate a virtual enviroment 
+### 2. Create And Activate A Virtual Enviroment 
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
-### 3. Install dependencies 
+### 3. Install Dependencies 
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Run the scanner
+### 4. Run The Scanner
 ```bash
 python scanner.py
 ```
-### 5. Enter the target URL when prompted
+### 5. Enter The Target URL When Prompted
 ```bash
 http://testphp.vulnweb.com
 ```
@@ -87,7 +93,7 @@ Do not use it to scan websites without proper permission.
 
 ---
 
-## 💻 Built by @DecryptMike
+## 💻 Built By @DecryptMike
 
 ---
 
