@@ -34,7 +34,7 @@
 - `requests`
 - `beautifulsoup4`
 
-To install dependencies, run:
+To Install Dependencies, Run:
 
 ```bash
 pip install -r requirements.txt
@@ -69,7 +69,7 @@ http://testphp.vulnweb.com
 
 ## 🧠 Sample Output 
 
-[+] Scanning http://testphp.vulnweb.com for vulnerabilities...
+```[+] Scanning http://testphp.vulnweb.com for vulnerabilities...
 [*] Checking for common admin pages...
 [!] Potential admin page found: http://testphp.vulnweb.com/admin
 [*] Checking for reflected XSS...
@@ -83,13 +83,13 @@ http://testphp.vulnweb.com
 [*] Checking server headers...
 [+] Server Header: nginx/1.19.0
 [+] X-Powered-By Header: PHP/5.6.40
-[!] Potential outdated technology detected
+[!] Potential outdated technology detected```
 
 ---
 
 ## ⚠️ Legal Disclaimer
-This tool is intended for educational and authorized testing only.
-Do not use it to scan websites without proper permission.
+This Tool Is Intended For Educational And Authorized Testing Only.
+Do Not Use It To Scan Websites Without Proper Permission.
 
 ---
 
@@ -104,13 +104,13 @@ Do not use it to scan websites without proper permission.
    - Press `Cmd + Shift + V` (on Mac) or `Ctrl + Shift + V` (on Windows)
    - Or right-click inside the file → **"Open Preview"**
 
-You’ll see the properly rendered GitHub-style formatting ✅
+You’ll See The Properly Rendered GitHub-Style Formatting ✅
 
 ---
 
 ### Last Step:
 
-Push it to GitHub:
+Push It To GitHub:
 ```bash
 git add README.md
 git commit -m "Final full README with markdown formatting"
