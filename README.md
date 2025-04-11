@@ -69,7 +69,8 @@ http://testphp.vulnweb.com
 
 ## 🧠 Sample Output 
 
-```[+] Scanning http://testphp.vulnweb.com for vulnerabilities...
+```
+[+] Scanning http://testphp.vulnweb.com for vulnerabilities...
 [*] Checking for common admin pages...
 [!] Potential admin page found: http://testphp.vulnweb.com/admin
 [*] Checking for reflected XSS...
@@ -83,7 +84,8 @@ http://testphp.vulnweb.com
 [*] Checking server headers...
 [+] Server Header: nginx/1.19.0
 [+] X-Powered-By Header: PHP/5.6.40
-[!] Potential outdated technology detected```
+[!] Potential outdated technology detected
+```
 
 ---
 
