@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python)
+![Last Commit](https://img.shields.io/github/last-commit/DecryptMike/DecryptMike-Web-Vuln-Scanner)
+![License](https://img.shields.io/github/license/DecryptMike/DecryptMike-Web-Vuln-Scanner)
+![Made With](https://img.shields.io/badge/Made%20with-Shields.io-007ec6?logo=shieldsdotio)
+
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
 </p>
