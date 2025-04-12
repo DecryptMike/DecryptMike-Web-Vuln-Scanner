@@ -2,6 +2,9 @@
 ![Last Commit](https://img.shields.io/github/last-commit/DecryptMike/DecryptMike-Web-Vuln-Scanner)
 ![License](https://img.shields.io/github/license/DecryptMike/DecryptMike-Web-Vuln-Scanner)
 ![Made With](https://img.shields.io/badge/Made%20with-Shields.io-007ec6?logo=shieldsdotio)
+![🔐 OWASP Top 10](https://img.shields.io/badge/OWASP-Top%2010-critical?style=flat-square&color=purple)
+![🔍 Scanner](https://img.shields.io/badge/%F0%9F%94%8D-Scanner-grey?style=flat-square)
+![🌐 HTTP](https://img.shields.io/badge/🌐-HTTP-grey?style=flat-square)
 
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
@@ -98,6 +101,27 @@ http://testphp.vulnweb.com
 
 ---
 
+## ✅ Once You Paste
+
+1. Save the file as `README.md` (not `.txt`, not `.py`)
+2. Open the **Markdown Preview** in VS Code:
+   - Press `Cmd + Shift + V` (on Mac) or `Ctrl + Shift + V` (on Windows)
+   - Or right-click inside the file → **"Open Preview"**
+
+You’ll See The Properly Rendered GitHub-Style Formatting ✅
+
+---
+
+## Last Step
+
+Push It To GitHub:
+```bash
+git add README.md
+git commit -m "Final full README with markdown formatting"
+git push origin main
+```
+---
+
 ## 📄 Why I Built It
 
 To sharpen my cybersecurity foundations and showcase how Python can automate critical vulnerability checks.  
@@ -113,27 +137,6 @@ Do Not Use It To Scan Websites Without Proper Permission.
 
 ## 💻 Built By [@DecryptMike](https://github.com/DecryptMike)
 
----
-
-## ✅ Once You Paste:
-
-1. Save the file as `README.md` (not `.txt`, not `.py`)
-2. Open the **Markdown Preview** in VS Code:
-   - Press `Cmd + Shift + V` (on Mac) or `Ctrl + Shift + V` (on Windows)
-   - Or right-click inside the file → **"Open Preview"**
-
-You’ll See The Properly Rendered GitHub-Style Formatting ✅
-
----
-
-## Last Step:
-
-Push It To GitHub:
-```bash
-git add README.md
-git commit -m "Final full README with markdown formatting"
-git push origin main
-```
 ---
 
 <p align="center">
