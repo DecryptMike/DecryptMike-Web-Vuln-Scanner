@@ -44,6 +44,14 @@ This project is built using:
 
 ---
 
+## 📸 Screenshot
+
+<p align="center">
+  <img src="DecryptMike Web Vuln Scanner.png" width="100%" alt="Sign In Page">
+</p>
+
+---
+
 ## 📦 To Install & Run:
 
 Install all required dependencies using:
