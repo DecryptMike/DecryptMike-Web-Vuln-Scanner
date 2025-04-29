@@ -1,9 +1,8 @@
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python)
-![Last Commit](https://img.shields.io/github/last-commit/DecryptMike/DecryptMike-Web-Vuln-Scanner)
-![Made With](https://img.shields.io/badge/Made%20with-Shields.io-007ec6?logo=shieldsdotio)
-![🔐 OWASP Top 10](https://img.shields.io/badge/OWASP-Top%2010-critical?style=flat-square&color=purple)
-![🔍 Scanner](https://img.shields.io/badge/%F0%9F%94%8D-Scanner-grey?style=flat-square)
-![🌐 HTTP](https://img.shields.io/badge/🌐-HTTP-grey?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.6%2B-3776AB?style=flat&logo=python&logoColor=white&labelColor=3f3f46)
+![Made with](https://img.shields.io/badge/Made%20with-Shields.io-0ea5e9?style=flat&logo=shieldsdotio&logoColor=white&labelColor=3f3f46)
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-a21caf?style=flat&labelColor=3f3f46)
+![Scanner](https://img.shields.io/badge/Scanner-Scanner-52525b?style=flat&labelColor=3f3f46)
+![HTTP](https://img.shields.io/badge/HTTP-Protocol-38bdf8?style=flat&logo=protocols&labelColor=3f3f46)
 ![License](https://img.shields.io/github/license/DecryptMike/DecryptMike-Web-Vuln-Scanner)
 
 <p align="center">
